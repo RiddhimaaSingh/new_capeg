@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 i hope chle
 zarur chaleyga
 helooo oyeee
+=======
+nahi chal paya
+>>>>>>> 3f199a680abe98edbd28dee9812bf76edaa547eb
+oyeeee
